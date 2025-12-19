@@ -1,7 +1,9 @@
 #include<iostream>
 #include<fstream>
 #include<cstdlib>
-
+//要在cmd中打开文件路径来使用
+//例如D:\study\C++\CodeProject\eighth\8.6>8.6.exe test.txt
+//或者D:\study\C++\CodeProject\eighth\8.6>8.6.exe D:\study\C++\CodeProject\eighth\8.6\test.txt
 using namespace std;
 
 int main(int agrv,char*argc[])
@@ -38,4 +40,5 @@ int main(int agrv,char*argc[])
     cin.get();
     cin.get();
     return 0;
+
 }

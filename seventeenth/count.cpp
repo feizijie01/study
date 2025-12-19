@@ -9,9 +9,9 @@ using namespace std;
 int main(int agrv,char*argc[])
 {
     if(agrv==1)
-    cerr << "nothing.\n";
+    {cerr << "nothing.\n";
     exit(EXIT_FAILURE);
-    
+    }
     long total=0;
     long count;
     char ch;
@@ -42,3 +42,4 @@ int main(int agrv,char*argc[])
     return 0;
 
 }
+

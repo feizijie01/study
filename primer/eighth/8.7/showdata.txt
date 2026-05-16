@@ -1,0 +1,30 @@
+BookNo: abc
+Sold_volume: 10
+Revenue: 1
+
+
+BookNo: def
+Sold_volume: 12
+Revenue: 2.4
+
+
+BookNo: ara
+Sold_volume: 13
+Revenue: 1.3
+
+
+BookNo: abc
+Sold_volume: 10
+Revenue: 1
+
+
+BookNo: def
+Sold_volume: 12
+Revenue: 2.4
+
+
+BookNo: ara
+Sold_volume: 13
+Revenue: 1.3
+
+
